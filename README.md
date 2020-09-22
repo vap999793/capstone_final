@@ -8,3 +8,8 @@
 <li>Then run the client file by giving command 'npm start'</li>
 <li>Open Browser and type localhost:4200 or only localhost since server is running in PORT 80</li>
 </ol>
+
+
+<hr>
+
+<h4>You can only download server folder and give command 'node server' in CMD, it will also run since angular project is built in server i.e. means it is connected.</h4>
